@@ -26,7 +26,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Installation
-URL: 
+URL: https://carolinarais.github.io/Password-Magician/
 
 ## Usage
 Click on the 'Generate Password' button and answer the prompts that appear on the page according to your password preferences. After you have selected your answers in the prompts a unique and secure password will be presented to you within the "Your Secure Password" window. 
